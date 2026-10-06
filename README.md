@@ -1,14 +1,29 @@
 # REACT PORTFOLIO 🚀
-This is a simple React portfolio website built using React, styled-components, and other modern web development tools. It showcases my skills, projects, and contact information.
+A personal portfolio website built with React to showcase my skills, projects,
+and experience as a Computer Science Engineering student and frontend developer.
 
+## ✨ Features
+- Responsive portfolio design
+- About Me section
+- Skills and technologies
+- Projects showcase
+- Contact information
+- Smooth and user-friendly navigation
+
+## 🛠️ Tech Stack
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Styled Components
 
 
 ## Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/daniel-ndeto/react-portfolio.git
-    cd react-portfolio 📁
+    git clone https://github.com/LakshitaRajput/Portfolio.git
+cd Portfolio 📁
     ```
 
 2.  **Install dependencies:**
