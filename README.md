@@ -23,15 +23,15 @@ and experience as a Computer Science Engineering student and frontend developer.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/LakshitaRajput/Portfolio.git
-cd Portfolio 📁
+    cd Portfolio 📁
     ```
 
 2.  **Install dependencies:**
     
     ```bash
 
-    # Using yarn 🧶
-    yarn install 
+    # Using npm 🧶
+    npm install 
 
     ```
 
@@ -40,10 +40,12 @@ cd Portfolio 📁
 1.  **Start the application:**
     
     ```bash
-    # yarn 🧶
-    yarn start 🚀
+    # npm 🧶
+    npm start 🚀
     ```
 
 ## Give it a star ⭐
 
-thank you for checking out my portfolio website. 🙏
+## 👩‍💻 About
+This portfolio was created to showcase my frontend development skills,
+projects, and technical experience.
